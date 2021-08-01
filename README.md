@@ -8,4 +8,8 @@ The ipynb notebook is split into different sections:
 'Exploratory Data Analysis (EDA)'
 'Model Implementation'
 
+Libraries used was numpy, pandas, sklearn, seabron, matplotlib, and scipy
+
+I plan on using libraries in tensorflow to predict performances as well.
+
 The dataset used for this project is available on kaggle at https://www.kaggle.com/isaienkov/nba2k20-player-dataset
