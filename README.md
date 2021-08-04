@@ -1,6 +1,6 @@
 # Salary-Predictions-NBA-2K20-
 
-I love the 2k Series and wanted to test different regression methods to predict the salary of players based on some of the features from in game data for NBA 2k20. 
+I love the 2k Series and wanted to test different regression methods using a pipeline to predict the salary of players based on some of the features from in game data for NBA 2k20. 
 
 The ipynb notebook is split into different sections:
 'Loading the Data'
