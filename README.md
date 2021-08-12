@@ -12,6 +12,6 @@ Libraries used was numpy, pandas, sklearn, seabron, matplotlib, and scipy
 
 I plan on using libraries in tensorflow to predict performances as well.
 
-The dataset used for this project is available on kaggle [here] (https://www.kaggle.com/isaienkov/nba2k20-player-dataset)
+The dataset used for this project is available on kaggle [here](https://www.kaggle.com/isaienkov/nba2k20-player-dataset)
 
 Working on using a pipeline and gridsearch for the parameters of the regression models opposed to using models one by one.(8/1/21)
