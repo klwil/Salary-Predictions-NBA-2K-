@@ -1,6 +1,6 @@
 # Salary-Predictions-NBA-2K20-
 
-I love the 2k Series and wanted to test different regression methods using a pipeline to predict the salary of players based on some of the features from in game data for NBA 2k20. 
+I love the 2k Series and mainly wanted to use this to predict the salary of players using inflexible models (Linear Regression) based on some of the features from in game data for NBA 2k20. This is also an earlier project I did to practice Feature Engineering. Now I want to use this same project to use GridSearch and Pipeline to test different regression methods to see what numbers I would get.
 
 The ipynb notebook is split into different sections:
 'Loading the Data'
