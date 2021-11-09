@@ -1,17 +1,11 @@
 # Salary-Predictions-NBA-2K20-
 
-I love the 2k Series and mainly wanted to use this to predict the salary of players using inflexible models (Linear Regression) based on some of the features from in game data for NBA 2k20. This is also an earlier project I did to practice Feature Engineering. Now I want to use this same project to use GridSearch and Pipeline to test different regression methods to see what numbers I would get.
+The data come from the 2K basketball series. I mainly wanted to use this to predict the salary of players based on some of the features of in game data in NBA 2K20. The 2 files extensions attached is CSV and IPYNB. Regression models used is K-Nearest Neighbors, Support Vector Regression, Random Forest, and Gradient Boosting Regression using GridSearch and Pipeline. The Jupyter file is split into different sections following the usual Data Science process.
 
-The ipynb notebook is split into different sections:
-'Loading the Data'
-'Cleaning the Data'
-'Exploratory Data Analysis (EDA)'
-'Model Implementation'
-
-Libraries used was numpy, pandas, sklearn, seabron, matplotlib, and scipy
-
-I plan on using libraries in tensorflow to predict performances as well.
+Libraries used:
+* Numpy/Pandas/Matplotlib/Seaborn
+* Scipy
+* Sklearn
 
 The dataset used for this project is available on Kaggle. You can access the data by clicking [here](https://www.kaggle.com/isaienkov/nba2k20-player-dataset)
 
-Working on using a pipeline and gridsearch for the parameters of the regression models opposed to using models one by one.(8/1/21)
