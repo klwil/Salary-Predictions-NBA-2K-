@@ -1,5 +1,7 @@
 # Salary-Predictions-NBA-2K20-
 
+![This is an image](https://www.nba-live.com/nbalivewiki/images/2/28/Nba2k20_logo.png)
+
 The data come from the 2K basketball series. I mainly wanted to use this to predict the salary of players based on some of the features of in game data in NBA 2K20. The 2 files extensions attached is CSV and IPYNB. Regression models used is K-Nearest Neighbors, Support Vector Regression, Random Forest, and Gradient Boosting Regression using GridSearch and Pipeline. The Jupyter file is split into different sections following the usual Data Science process.
 
 Libraries used:
